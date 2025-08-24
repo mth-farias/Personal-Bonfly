@@ -1,2 +1,2 @@
-# Personal-Bonfly
-Personal Bonfly related workflows
+# Moita-Bonfly
+Bonfly repository of the MoitaLab
